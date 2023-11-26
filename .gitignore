@@ -1,0 +1,3 @@
+blog_env/
+*.pyc
+*.sqlite3
